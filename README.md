@@ -21,7 +21,7 @@ I am a Columbia University graduate student pursuing a Master's in Quantitative 
 ### 👀 More About Me
 💫 Pronouns: She/Her
 
-📚 Coursework: Machine Learning, Modern Data Structures, Data Analysis
+📚 Coursework: Machine Learning, Modern Data Structures, Data Analysis, Data Visualization, Natural Language Processing, Social Network Analysis
 
 💻 Skills: Python, R, SQL, Minitab, Econometric Analysis, Policy Analysis, Research, Writing, HTML/Worpress
 
