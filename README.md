@@ -23,7 +23,14 @@ I am a Columbia University graduate student pursuing a Master's in Quantitative 
 
 📚 Coursework: Machine Learning, Modern Data Structures, Data Analysis, Data Visualization, Natural Language Processing, Social Network Analysis
 
-💻 Skills: Python, R, SQL, Minitab, Econometric Analysis, Policy Analysis, Research, Writing, HTML/Worpress
+💻 Skills:
+
+* Programming Languages: Python, R, SQL
+
+* Frameworks/Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, dplyr, ggplot2
+
+* Other Skills: Minitab, Data Wrangling, Research, Writing, Statistical Analysis, Econometric Analysis, Policy Analysis, HTML/Wordpress, Arabic (professional working proficiency) 
+
 
 ### 📱 Social
 You can connect with me on the following social media platforms or email:
